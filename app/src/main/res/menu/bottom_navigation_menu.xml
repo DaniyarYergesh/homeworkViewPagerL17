@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_1"
+        android:icon="@drawable/vector"
+        android:title=""
+        />
+    <item
+        android:id="@+id/page_2"
+        android:icon="@drawable/shape"
+        android:title="" />
+    <item
+        android:id="@+id/page_3"
+        android:icon="@drawable/vector__2_"
+        android:title="" />
+    <item
+        android:id="@+id/page_4"
+        android:icon="@drawable/search"
+        android:title="" />
+    <item
+        android:id="@+id/page_5"
+        android:icon="@drawable/account_1"
+        android:title="" />
+</menu>
